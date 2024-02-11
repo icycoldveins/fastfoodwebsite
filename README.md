@@ -42,7 +42,6 @@ This project utilizes the following technologies:
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express
-- Database: MongoDB
 
 ## Contributing
 
